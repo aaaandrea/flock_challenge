@@ -1,4 +1,4 @@
-Problem #1
+# Problem 1
   Using Twitter Bootstrap (or HTML/CSS if you don’t know Bootstrap), make a single page with static HTML that includes:
   Input form for a new todo item
   Table with rows for each todo item
@@ -16,7 +16,7 @@ Problem #1
   Please view [main.html](https://github.com/adelrio1/flock_challenge/blob/master/main.html) with [main.css](https://github.com/adelrio1/flock_challenge/blob/master/main.css) for the solution to this problem
 
 
-Problem #2
+# Problem 2
   Please explain the difference between the following jQuery functions. What impact has or will this have on code you’ve written?
 
   1. $(“.todo-item”).on(“click”, function(e){ console.log(e) });
@@ -26,7 +26,7 @@ Problem #2
   This is making use of the DOM. On click of ".todo-item" this will pass the anonymous function the event and log the event to the console.
 
 
-Problem #3
+# Problem 3
   Create a calculator Javascript object that has a functions to add/subtract/multiply/divide. It should allow me to do something like this.
 
   Calc = Calculator.new()
