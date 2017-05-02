@@ -1,4 +1,6 @@
 # Problem 1
+
+  ```
   Using Twitter Bootstrap (or HTML/CSS if you don’t know Bootstrap), make a single page with static HTML that includes:
   Input form for a new todo item
   Table with rows for each todo item
@@ -12,6 +14,8 @@
   Fill in the HTML with 5 example todo items.
   Don’t worry about making the Todo List interactive or able to add new todo items to the list. We’re only concerned in seeing how you structure the HTML and CSS. Therefore, don’t worry about making the page interactive. All the todo items should be statically coded in HTML.
   Please take creative liberties with styling HTML to be something that you’d be happy using :)
+  ```
+
 
   Please view [main.html](https://github.com/adelrio1/flock_challenge/blob/master/main.html) with [main.css](https://github.com/adelrio1/flock_challenge/blob/master/main.css) for the solution to this problem
 
