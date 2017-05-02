@@ -13,6 +13,8 @@ Problem #1
   Don’t worry about making the Todo List interactive or able to add new todo items to the list. We’re only concerned in seeing how you structure the HTML and CSS. Therefore, don’t worry about making the page interactive. All the todo items should be statically coded in HTML.
   Please take creative liberties with styling HTML to be something that you’d be happy using :)
 
+  Please view [main.html](https://github.com/adelrio1/flock_challenge/blob/master/main.html) with [main.css](https://github.com/adelrio1/flock_challenge/blob/master/main.css) for the solution to this problem
+
 
 Problem #2
   Please explain the difference between the following jQuery functions. What impact has or will this have on code you’ve written?
@@ -40,3 +42,5 @@ Problem #3
   Calc.divide(null,10) // returns null
 
   Please take creative liberties with what the exact JavaScript API looks like. Please copy and paste code example steps for us to check that addition, subtraction, multiplication, and division steps work as expected. We care more about you describing how the code was put togehter than it being coded a specific way.
+
+  Please view [calculator.js](https://github.com/adelrio1/flock_challenge/blob/master/calculator.js) for the solution to this problem
