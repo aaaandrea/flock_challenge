@@ -1,0 +1,76 @@
+html, body, header, h1, strong, button, form, label, input{
+  margin: 10px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  color: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  box-sizing: inherit;
+  background: transparent;
+  background-color: #5251C1;
+}
+
+h1  {
+  font-size: 24px;
+  line-height: 1;
+  color: #E995D7;
+}
+
+label {
+  font-weight: bold;
+  font-size: 14px;
+  color: #E995D7;
+}
+
+table {
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #945BF7;
+}
+
+tr {
+    border: 1px solid #191F5B;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+td {
+  border: 1px solid #191F5B;
+}
+
+table .header {
+  background-color: #191F5B;
+}
+
+form {
+  border: 1px solid #191F5B;
+
+}
+
+input {
+  border: 1px solid #945BF7;
+  height: 25px;
+}
+
+select {
+  background-color: #5251C1;
+  border: 1px solid #945BF7;
+  height: 25px;
+}
+
+button {
+  border: 1px solid #945BF7;
+  padding: 10px;
+  border-radius: 15%;
+}
+
+tr:nth-child(odd) {
+    background-color: #191F5B;
+    color: #D7D6EB;
+}
